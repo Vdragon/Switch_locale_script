@@ -1,0 +1,5 @@
+target_locale="en_US.UTF-8"
+export LANG="${target_locale}"
+export LANGUAGE="${target_locale}"
+export LC_CTYPE="${target_locale}"
+export LC_ALL="${target_locale}"
